@@ -9,7 +9,7 @@
 
 // All test cases are one word and only contain letters.
 
-// ~> Note: run the code using `npm start` or `node index.js`
+// ~> Note: Open the `Vowels` folder then run the code using `npm start` or `node index.js`
 
 const readline = require('readline');
 
