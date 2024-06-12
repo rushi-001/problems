@@ -8,6 +8,9 @@
 // a, e, i, o, u are considered vowels (not y).
 
 // All test cases are one word and only contain letters.
+
+// ~> Note: run the code using `npm start` or `node index.js`
+
 const readline = require('readline');
 
 function countVowels(str) {
